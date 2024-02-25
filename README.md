@@ -11,3 +11,4 @@ pinecone API key #
 6ef9d1cc-4d5a-48ef-85d8-119a0dd286b9
 
 
+http://localhost:8502
