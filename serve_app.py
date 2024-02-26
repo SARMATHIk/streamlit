@@ -6,7 +6,7 @@ import openai
 from llama_index.core import SimpleDirectoryReader
 
 st.set_page_config(page_title="Paperflite Chatbot", layout="centered", initial_sidebar_state="auto", menu_items=None)
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 openai.api_key = os.environ["OPENAI_API_KEY"]
 st.title("Chat with Paperflitebot")
          
